@@ -1,4 +1,5 @@
 proyectoramp-up
+
 Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
@@ -9,6 +10,7 @@ Virtual Studio Code o algun editor de texto compatible con html5 y css
 
 
 Da un ejemplo
+
 Instalación 🔧
 Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
 
@@ -54,6 +56,7 @@ Autores ✒️
 Adrian Martinez Teba .
 
 Licencia 📄
+
 Este proyecto está bajo la Licencia de Adrian Martinez Teba
 
 Muchas gracias a todos
