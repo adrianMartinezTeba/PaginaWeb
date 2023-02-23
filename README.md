@@ -1,6 +1,7 @@
-proyectoramp-up
+proyectoramp-up(página web1)
 
 Índice
+
 1.index.html
 
 Donde tenemos el menú principal que nos permite navegar hacia nuestros diferentes archivos html de nuestra página
@@ -51,4 +52,4 @@ Este proyecto está bajo la Licencia de Adrian Martinez Teba
 Muchas gracias a todos
 Comenta a otros sobre este proyecto 📢
 Invita una cerveza por ser mi primer proyecto
-Da las gracias públicamente 🤓.
+Da las gracias públicamente 🤓
