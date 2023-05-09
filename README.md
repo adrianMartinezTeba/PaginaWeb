@@ -1,6 +1,6 @@
 proyectoramp-up(página web1)
 
-Índice
+# Índice
 
 1.index.html
 
@@ -28,28 +28,24 @@ Me ha faltado añadir media queries para adaptar la página a cualquier pantalla
 
 En este carpeta están los archivos usados desde mi propio ordenador tales como algunas imágenes,gifts o audios usados en el proyecto
 
-
-Comenzando 🚀
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
-Pre-requisitos 📋
+# Pre-requisitos 📋
 
 Virtual Studio Code o algun editor de texto compatible con html5 y css
 
 
-Construido con 🛠️
+# Construido con 🛠️
 
 virtual studio code,css y html5
 
-Autores ✒️
+# Autores ✒️
 
 Adrian Martinez Teba .
 
-Licencia 📄
+# Licencia 📄
 
 Este proyecto está bajo la Licencia de Adrian Martinez Teba
 
 Muchas gracias a todos
 Comenta a otros sobre este proyecto 📢
 Invita una cerveza por ser mi primer proyecto
-Da las gracias públicamente 🤓
+Muchas gracias a todos 🤓
